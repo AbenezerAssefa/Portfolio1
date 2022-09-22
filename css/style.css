@@ -5,7 +5,6 @@ body {
   padding: 0;
 }
 
-/* -- nav styling -- */
 nav {
   display: flex;
   justify-content: space-between;
@@ -32,8 +31,6 @@ nav button {
   border: none;
   cursor: pointer;
 }
-
-/* -- header styling -- */
 
 .home-page {
   padding: 0 15px;
@@ -94,8 +91,6 @@ section {
   order: 2;
   flex-grow: 0;
 }
-
-/* -- container styling -- */
 
 .icons-container {
   margin-top: 10px;
