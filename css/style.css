@@ -16,7 +16,7 @@ nav {
   margin: 0;
 }
 
-nav p {
+nav a {
   padding-left: 24px;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -38,7 +38,7 @@ nav button {
 
 .header {
   margin-top: 120px;
-  font-family: var(--font-round);
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
@@ -65,7 +65,7 @@ section {
 }
 
 .brief {
-  font-family: var(--font-roboto);
+  font-family: 'Crete Round' , serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -80,7 +80,7 @@ section {
 }
 
 .brief2 {
-  font-family: var(--font-poppins);
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -95,12 +95,12 @@ section {
 .icons-container {
   margin-top: 10px;
   text-align: left;
-  margin-left: 24px;
+  margin-left: 10px;
   display: flex;
   gap: 17px;
   position: absolute;
   width: 50px;
-  height: 100px;
+  height: 35px;
   color: #dbd8d7;
   list-style-type: none;
   flex-direction: row;
