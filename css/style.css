@@ -1,0 +1,128 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+/* -- nav styling -- */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 48px;
+  background-color: #3c3a39;
+  padding: 0;
+  padding-right: 24px;
+  margin: 0;
+}
+
+nav p {
+  padding-left: 24px;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+}
+
+nav button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+/* -- header styling -- */
+
+.home-page {
+  padding: 0 15px;
+}
+
+.header {
+  margin-top: 120px;
+  font-family: var(--font-round);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: 0.37px;
+  color: #ff6b00;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.sub {
+  height: 590px;
+}
+
+section {
+  background: #1c1a19;
+  height: 100%;
+  padding-right: 24px;
+}
+
+.section1 {
+  padding-top: -20;
+}
+
+.brief {
+  font-family: var(--font-roboto);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  color: #fff5e1;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-top: -40px !important;
+}
+
+.brief2 {
+  font-family: var(--font-poppins);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 12px 0;
+  color: #fff;
+  font-style: normal;
+  flex: none;
+  order: 2;
+  flex-grow: 0;
+}
+
+/* -- container styling -- */
+
+.icons-container {
+  margin-top: 10px;
+  text-align: left;
+  margin-left: 24px;
+  display: flex;
+  gap: 17px;
+  position: absolute;
+  width: 50px;
+  height: 100px;
+  color: #dbd8d7;
+  list-style-type: none;
+  flex-direction: row;
+  align-items: center;
+  padding: 0;
+  flex: none;
+  order: 3;
+  flex-grow: 0;
+}
+
+.illustration {
+  width: 150px;
+  height: 430px;
+  background-repeat: no-repeat;
+  background-image: url('../images/illustration-header-mobile.png');
+  position: absolute;
+  right: 0;
+  bottom: -5%;
+  display: block;
+}
