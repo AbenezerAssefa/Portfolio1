@@ -51,10 +51,10 @@ nav button {
 }
 
 .sub {
-  height: 590px;
+  height: 440px;
 }
 
-section {
+.home-page {
   background: #1c1a19;
   height: 100%;
   padding-right: 24px;
@@ -120,4 +120,451 @@ section {
   right: 0;
   bottom: -5%;
   display: block;
+}
+
+section#projects {
+  padding: 0 1.5rem 6rem 1.5rem;
+  position: relative;
+}
+
+#projects-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+#h2-projects {
+  color: #1c1a19;
+  font-family: "Crete Round", sans-serif;
+  font-weight: normal;
+  font-size: 2.3rem;
+  text-align: center;
+  margin: 8rem 0 3rem 0;
+  width: 327px;
+  list-style-type: none;
+}
+
+hr {
+  width: 295px;
+  height: 0px;
+  flex: none;
+  order: 1;
+  margin-top: -17px;
+  margin-bottom: 70px;
+}
+
+#main-image-div {
+  display: flex;
+  justify-content: center;
+}
+
+#orange-project {
+  display: block;
+  width: 80vw;
+  padding-right: 10px;
+}
+
+#main-project-content {
+  padding: 0 1rem 0 0.5rem;
+  
+}
+
+#orange-h3 {
+  font-family: "Crete Round", sans-serif;
+  color: #091e42;
+  padding: 1.5rem 0 1rem 0;
+  width: 327px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 44px;
+  margin-top: -4px;
+}
+
+#orange-p {
+  font-family: "Inter", sans-serif;
+  color: #091e42;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-top: -35px;
+
+}
+
+h3 {
+  font-family: "Crete Round", sans-serif;
+  color: #fff;
+  font-weight: normal;
+  font-size: 2rem;
+  padding: 0 0 1.2rem 0.6rem;
+}
+
+div.mini-projects p {
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding: 0 0 0.6rem 0.6rem;
+}
+
+.box {
+  border: 1px solid #8993a4;
+  font-family: "Inter", sans-serif;
+  color: #091e42;
+  padding: 0.6rem 0.7rem;
+  display: inline;
+  font-size: 1rem;
+}
+
+.language-container {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+.mini-languages-container {
+  display: flex;
+  gap: 1rem;
+  padding: 0 0 1.5rem 0.6rem;
+}
+
+.mini-projects {
+  background-image: url('../images/img1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-top: 1.5rem;
+}
+
+.mini-box {
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  padding: 0.6rem 0.7rem;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+div#h2-wrap {
+  background-repeat: no-repeat;
+  background-position: right;
+  border-bottom: 1px solid #fff;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: -80px;
+  background-image:  url(../images/Img1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-x: 30px; 
+}
+
+div#h2-wrap1 {
+  background-repeat: no-repeat;
+  background-position: right;
+  border-bottom: 1px solid #fff;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  background-image:  url(../images/Img1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-x: 30px; 
+}
+
+div#h2-wrap2 {
+  background-repeat: no-repeat;
+  background-position: right;
+  border-bottom: 1px solid #fff;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  background-image:  url(../images/Img1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-x: 30px; 
+}
+
+div#h2-wrap3 {
+  background-repeat: no-repeat;
+  background-position: right;
+  border-bottom: 1px solid #fff;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  background-image:  url(../images/Img1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-x: 30px; 
+}
+ 
+div#h2-wrap4 {
+  background-repeat: no-repeat;
+  background-position: right;
+  border-bottom: 1px solid #fff;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  background-image:  url(../images/Img1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-x: 30px; 
+}
+
+div#h2-wrap5 {
+  background-repeat: no-repeat;
+  background-position: right;
+  border-bottom: 1px solid #fff;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  background-image:  url(../images/Img1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-position-x: 30px; 
+}
+
+#h2-max {
+  width: 295px;
+  height: 81px;
+  font-family: 'Crete Round';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 32px;
+  line-height: 44px;
+  color: white;
+  padding-left: 20px;
+}
+
+#p-max {
+  width: 295px;
+  height: 87px;
+  font-family: 'Inter' sans-serif;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 18.5px;
+  line-height: 24px;
+  color: #FFFFFF;
+  padding-left: 20px;
+  margin-top: -15px;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+
+} 
+
+.language-wrap {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding-left: 20px;
+}
+
+.box1 {
+  border: 1px solid #8993a4;
+  font-family: "Inter", sans-serif;
+  color: white;
+  padding: 0.6rem 0.7rem;
+  display: inline;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.24);
+}
+
+.language-wrap1 {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding-left: 20px;
+}
+
+.box2 {
+  border: 1px solid #8993a4;
+  font-family: "Inter", sans-serif;
+  color: white;
+  padding: 0.6rem 0.7rem;
+  display: inline;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.24);
+}
+
+.language-wrap2 {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding-left: 20px;
+}
+
+.box3 {
+  border: 1px solid #8993a4;
+  font-family: "Inter", sans-serif;
+  color: white;
+  padding: 0.6rem 0.7rem;
+  display: inline;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.24);
+}
+
+.language-wrap3 {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding-left: 20px;
+}
+
+.box4 {
+  border: 1px solid #8993a4;
+  font-family: "Inter", sans-serif;
+  color: white;
+  padding: 0.6rem 0.7rem;
+  display: inline;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.24);
+}
+
+.language-wrap4 {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding-left: 20px;
+}
+
+.box5 {
+  border: 1px solid #8993a4;
+  font-family: "Inter", sans-serif;
+  color: white;
+  padding: 0.6rem 0.7rem;
+  display: inline;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.24);
+}
+
+.language-wrap5 {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  padding-left: 20px;
+}
+
+.box6 {
+  border: 1px solid #8993a4;
+  font-family: "Inter", sans-serif;
+  color: white;
+  padding: 0.6rem 0.7rem;
+  display: inline;
+  font-size: 1rem;
+  background: rgba(255, 255, 255, 0.24);
+}
+
+button,
+#submit {
+  background-color: #fc6703;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: #fff;
+  border: none;
+  font-size: 1.1rem;
+  padding: 0.7rem;
+}
+
+#main-project-button {
+  margin-top: 0.7rem;  
+}
+
+#main-project-button1 {
+  margin-top: 20px; 
+  width: 327px;
+  font-family: 'Inter', sans-serif;
+  list-style-type: bold;
+}
+
+#submit {
+  margin-bottom: 2rem;
+}
+
+button:hover,
+#submit:hover {
+  background-color: #fff5e1;
+  color: #ff6b00;
+  cursor: pointer;
+}
+
+button:focus,
+#submit:focus {
+  background-color: #f4f1f0;
+  color: #5b5957;  
+}
+
+button#resume {
+  margin: 1rem 0 12rem 0;
+  border: none; 
+}
+
+#about-me {
+  background-color: #1c1a19;
+  padding: 0 1.2rem 3rem 1.2rem;
+  margin-top: 120px;
+}
+
+#about-me-p {
+  width: 327px;
+  font-family: 'Inter' sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  padding-top: -80px;
+}
+
+div#about-me-description {
+  background-image: url('../images/illustration-about-me-mobile.png');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  border-bottom: 1px solid #fff;
+  color: white;
+  padding-left: 10px; 
+}
+
+h2.title {
+  text-align: center;
+  color: #FF6B00;
+  font-family: 'Crete Round', serif;
+  width: 327px;
+  height: 79px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 88px;
+  letter-spacing: 0.37px;
+  height: 79px;
+  padding-top: 50px;
+}
+
+.skills-lang {
+  list-style-type: none;
+  margin-left: 40px;
+  font-family: 'InaiMathi';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: white;
+}
+
+.skill-lang-li{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 43px;
+  margin-left: 50px;
+}
+
+div.rectangle {
+  margin-left: -10px;
 }
