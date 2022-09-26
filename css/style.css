@@ -131,6 +131,7 @@ nav button {
 }
 
 section#projects {
+  display: grid;
   padding: 0 1.5rem 6rem 1.5rem;
   position: relative;
 }
@@ -351,11 +352,15 @@ div#h2-wrap5 {
   flex-grow: 0;
 }
 
+ul {
+  color: #f4f1f0;
+}
+
 .language-wrap {
   display: flex;
   gap: 0.6rem;
   margin-top: 1rem;
-  padding-left: 20px;
+  margin-left: -20px;
 }
 
 .box1 {
@@ -372,7 +377,7 @@ div#h2-wrap5 {
   display: flex;
   gap: 0.6rem;
   margin-top: 1rem;
-  padding-left: 20px;
+  margin-left: -20px;
 }
 
 .box2 {
@@ -389,7 +394,7 @@ div#h2-wrap5 {
   display: flex;
   gap: 0.6rem;
   margin-top: 1rem;
-  padding-left: 20px;
+  margin-left: -20px;
 }
 
 .box3 {
@@ -406,7 +411,7 @@ div#h2-wrap5 {
   display: flex;
   gap: 0.6rem;
   margin-top: 1rem;
-  padding-left: 20px;
+  margin-left: -20px;
 }
 
 .box4 {
@@ -423,7 +428,7 @@ div#h2-wrap5 {
   display: flex;
   gap: 0.6rem;
   margin-top: 1rem;
-  padding-left: 20px;
+  margin-left: -20px;
 }
 
 .box5 {
@@ -440,7 +445,7 @@ div#h2-wrap5 {
   display: flex;
   gap: 0.6rem;
   margin-top: 1rem;
-  padding-left: 20px;
+  margin-left: -20px;
 }
 
 .box6 {
@@ -470,8 +475,8 @@ div#h2-wrap5 {
 
 button:hover,
 #submit:hover {
-  background-color: #fff5e1;
-  color: #ff6b00;
+  background-color: #e05304;
+  color: #f4f1f0;
   cursor: pointer;
 }
 
