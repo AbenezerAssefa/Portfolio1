@@ -47,19 +47,19 @@ nav button {
 .home-page {
   padding: 0 15px;
   background: #1c1a19;
-  height: 690px;
+  height: 600px;
   padding-right: 24px;
 }
 
 .header {
   margin-top: 120px;
-  font-family: 'Roboto', sans-serif;
+  font-family: Crete 'Round', serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
   line-height: 64px;
   letter-spacing: 0.37px;
-  color: #ff6b00;
+  color: #FF6B00;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -89,7 +89,7 @@ nav button {
 }
 
 .brief2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -122,7 +122,7 @@ nav button {
 
 .illustration {
   width: 150px;
-  height: 930px;
+  height: 430px;
   background-repeat: no-repeat;
   background-image: url('../images/illustration-header-mobile.png');
   position: absolute;
