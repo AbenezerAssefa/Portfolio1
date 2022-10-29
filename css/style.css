@@ -45,9 +45,11 @@ nav button {
 }
 
 .home-page {
+  display: flex;
+  flex-direction: column;
   padding: 0 15px;
   background: #1c1a19;
-  height: 600px;
+  height: 590px;
   padding-right: 24px;
 }
 
