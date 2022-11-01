@@ -602,6 +602,15 @@ h2.title {
   border: none;
 }
 
+#form-section fieldset textarea {
+ font-family: 'Inter', sans-serif;
+ font-style: normal;
+ font-size: 15px;
+ line-height: 24px;
+ font-weight: 390;
+ color: #3C3A39;
+}
+
 .inputs {
   padding: 1.2rem;
   width: 80vw;
