@@ -590,7 +590,7 @@ h2.title {
   text-align: center;
   line-height: 2.5rem;
   padding: 0 2rem;
-  font-family: 'Inter' sans-serif;
+  font-family: 'Inter', sans-serif;
   font-style: normal;
 }
 
@@ -600,6 +600,15 @@ h2.title {
   flex-direction: column;
   gap: 2.5rem;
   border: none;
+}
+
+#form-section fieldset textarea {
+ font-family: 'Inter', sans-serif;
+ font-style: normal;
+ font-size: 15px;
+ line-height: 24px;
+ font-weight: 390;
+ color: #3C3A39;
 }
 
 .inputs {
@@ -638,4 +647,3 @@ input:valid {
 input:focus:invalid {
   outline: thin solid red;
 }
-
