@@ -20,7 +20,8 @@ To get a local copy up and running follow these simple example steps.
 
 To get a local copy up and running follow these simple example steps.
 
-👤 **Author**
+👤 **Abenezzer**
+👤 **Shakespear**
 
 - GitHub: [@githubhandle](https://github.com/AbenezerAssefa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abenezer-assefa-386b25193)
