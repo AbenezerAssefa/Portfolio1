@@ -9,7 +9,7 @@
         <!--google fonts-->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-        <link href="https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@300&family=Poppins&family=Roboto&display=swap" rel="stylesheet"/>
+        <link href="https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@100;200;400;700&family=Poppins&family=Roboto&display=swap" rel="stylesheet"/>
 
        <!--stylesheet-->
         <link rel="stylesheet" href="./css/style.css">
@@ -28,9 +28,7 @@
               <button><img src="images/menu.png" alt=""></button>
           </nav>
       </header>
-
       <!--section home page-->
-
       <section class="home-page">
           <div class="sub">
         <h1 class="header">Hey There.<br />I'm Abenezer</h1>
@@ -111,7 +109,7 @@
           <li class="box1"><span>Ruby</span></li>
           </ul>
         </div>
-        <button type="button1" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
+        <button type="button" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
           See Project
         </button>
       </div>
@@ -131,7 +129,7 @@
         <li class="box2"><span>Ruby</span></li>
         </ul>
       </div>
-      <button type="button1" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
+      <button type="button" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
         See Project
       </button>
     </div>
@@ -151,7 +149,7 @@
       <li class="box3"><span>Ruby</span></li>
       </ul>
     </div>
-    <button type="button1" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
+    <button type="button" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
       See Project
     </button>
   </div>
@@ -171,7 +169,7 @@
       <li class="box4"><span>Ruby</span></li>
       </ul>
     </div>
-    <button type="button1" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
+    <button type="button" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
       See Project
     </button>
   </div>
@@ -191,7 +189,7 @@
       <li class="box5"><span>Ruby</span></li>
       </ul>
     </div>
-    <button type="button1" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
+    <button type="button" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
       See Project
     </button>
   </div>
@@ -211,7 +209,7 @@
       <li class="box5"><span>Ruby</span></li>
       </ul>
     </div>
-    <button type="button1" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
+    <button type="button" id="main-project-button1" class="btn project-btn1" data-btn="#main-project">
       See Project
     </button>
   </div>
@@ -279,5 +277,23 @@
 
       </div>
     </section>
+
+    <section id="form-section">
+      <h2>
+        I'm always <br>interested in hearing <br> about new projects,<br> so if you'd like to <br> chat please get in .
+      </h2>
+      <form action="https://formspree.io/f/mgeqpken" method="POST" id="contact-form" >
+
+        <fieldset>
+          <input class="inputs" type="text" name="full-name" id="fullname" maxlength="30" placeholder="Enter your name"required/>
+          <input class="inputs" type="email" name="email" id="email" placeholder="Email" required/>
+
+          <textarea name="comments" id="comments" maxlength="500" placeholder="Enter text here"></textarea>
+        </fieldset>
+
+        <input type="submit" id="submit" name="submit" value="Get in touch" />
+      </form>
+    </section>
+
 </body>
 </html>
