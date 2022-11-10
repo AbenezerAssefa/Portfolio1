@@ -87,12 +87,12 @@ form li {
   font-weight: 900;
   line-height: 52px;
   font-family: 'Poppins', sans-serif;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .home p {
   width: 327px;
-  color: #172B4D;
+  color: #172b4d;
 }
 
 .languages-list li {
@@ -149,8 +149,8 @@ form ul {
   display: grid;
   align-items: center;
   padding: 114px 24px;
-  margin-left: -55px ;
-  margin-right: -55px ;
+  margin-left: -55px;
+  margin-right: -55px;
   gap: 88px;
   left: 0;
   top: 100px;
