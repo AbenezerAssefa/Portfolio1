@@ -70,7 +70,7 @@ form li {
 }
 
 .home {
-  background-image: url("../img/background.png");
+  background-image: url("../img/background1.png");
   background-color: white;
   background-size: cover;
   border-bottom-left-radius: 70px;
@@ -87,10 +87,12 @@ form li {
   font-weight: 900;
   line-height: 52px;
   font-family: 'Poppins', sans-serif;
+  color: #172B4D;
 }
 
 .home p {
   width: 327px;
+  color: #172B4D;
 }
 
 .languages-list li {
@@ -147,6 +149,8 @@ form ul {
   display: grid;
   align-items: center;
   padding: 114px 24px;
+  margin-left: -55px ;
+  margin-right: -55px ;
   gap: 88px;
   left: 0;
   top: 100px;
@@ -235,14 +239,14 @@ button:hover {
   background-color: white;
   align-items: center;
   padding: 12px;
-  width: 133px;
-  height: 58px;
+  width: 125px;
+  height: 40px;
   left: 0;
   border: 1px solid #6070ff;
   border-radius: 8px;
   font-weight: 500;
   font-size: 17px;
-  line-height: 24px;
+  line-height: 15px;
   letter-spacing: 0.03em;
   color: #396df2;
 }
