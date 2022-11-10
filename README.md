@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple example steps.
 2. **Run** _'git clone https://github.com/AbenezerAssefa/Portfolio'_
 3. **Run** _'code'_
 
-url=  abenezerassefa.github.io. 
+url:  https://abenezerassefa.github.io. 
 
 To get a local copy up and running follow these simple example steps.
 
