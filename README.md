@@ -15,8 +15,8 @@ To get a local copy up and running follow these simple example steps.
 
 
 To get a local copy up and running follow these simple example steps.
-the link below will take you to my wesite.
 
+the link below will take you to my wesite.
 https://abenezerassefa.github.io/Portfolio1/
 
 Built With
