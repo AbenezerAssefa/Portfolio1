@@ -18,11 +18,24 @@ To get a local copy up and running follow these simple example steps.
 2. **Run** _'git clone https://github.com/AbenezerAssefa/Portfolio'_
 3. **Run** _'code'_
 
-url:  https://abenezerassefa.github.io. 
 
 To get a local copy up and running follow these simple example steps.
+the link below will take you to my wesite.
 
-👤 **Abennezer and Shakespear**
+https://abenezerassefa.github.io/Portfolio1/
+
+Built With
+
+CSS
+HTML
+Linters for testing if the code is upto standard
+
+Getting Started
+I stared by creating an empty repository on the github software then i had to clone this repository into my comptuter file I used terminal to open the file and used the command code. to open in visual studio In visual code I had to add folders, the css and img folder. I also added the index.html file and write the code in the html file in the index file i edited the css file so that it can style the header the next part was to install the linters for the html and CSS files folowed the template i was given and pushed the chnaged to my git hub Git pages was used for deploying the website online, now with the link you can view my website on every device, either your phone, tablet or computer
+
+
+
+👤 **Abenezer**
 
 - GitHub: [@githubhandle](https://github.com/AbenezerAssefa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abenezer-assefa-386b25193)
