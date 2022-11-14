@@ -15,7 +15,7 @@
 To get a local copy up and running follow these simple example steps.
 
 1. Open terminal or cmd on you local machine and navigate to your desired directory.
-2. **Run** _'git clone https://github.com/AbenezerAssefa/Portfolio'_
+2. **Run** _'git clone https://github.com/AbenezerAssefa/Portfolio1'_
 3. **Run** _'code'_
 
 To get a local copy up and running follow these simple example steps.
