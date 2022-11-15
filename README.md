@@ -21,12 +21,12 @@ https://abenezerassefa.github.io/Portfolio1/
 - Linters for testing if the code is upto standard
 
 ## Getting Started
-Prerequisites
-web browser (e.g. Google Chrome, Firefox)
-text editor (e.g. VSCode)
-CLI/terminal
-Clone this repository
-git clone 
+## Prerequisites
+- web browser (e.g. Google Chrome, Firefox)
+- text editor (e.g. VSCode)
+- CLI/terminal
+## Clone this repository
+git clone https://github.com/AbenezerAssefa/Portfolio1'
 
 👤 **Abenezer**
 
