@@ -27,7 +27,9 @@ header {
   display: flex;
   font-weight: 700;
 }
-
+#logo:hover {
+  color: #202DC2;
+}
 p,
 a {
   font-size: larger;
@@ -139,6 +141,7 @@ form li {
 
 div .connect {
   color: #7f8cff;
+  text-decoration: none;
 }
 
 form ul {
